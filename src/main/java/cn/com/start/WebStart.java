@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("cn.com.mapper")
 public class WebStart {
 	public static void main(String[] args) {
-		//项目启动入口
-		 SpringApplication.run(WebStart.class, args);
+		//项目启动入口# 
+		 SpringApplication.run(WebStart.class, args); 
 	}
 }
